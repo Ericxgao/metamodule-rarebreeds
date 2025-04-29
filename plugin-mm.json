@@ -5,8 +5,12 @@
     "MetaModuleDescription": "Kompas for MetaModule",
     "MetaModuleIncludedModules": [
         {
-            "slug": "Kompas",
-            "name": "Kompas"
+            "slug": "RareBreeds_Orbits_Eugene",
+            "name": "Eugene"
+        },
+        {
+            "slug": "RareBreeds_Orbits_Polygene",
+            "name": "Polygene"
         }
     ]
 }

@@ -2,7 +2,7 @@
     "MetaModulePluginMaintainer": "oksami",
     "MetaModulePluginMaintainerEmail": "itsoksami@gmail.com",
     "MetaModulePluginMaintainerUrl": "https://github.com/Ericxgao/metamodule-rarebreeds",
-    "MetaModuleDescription": "Kompas for MetaModule",
+    "MetaModuleDescription": "RareBreeds Orbits for MetaModule",
     "MetaModuleIncludedModules": [
         {
             "slug": "RareBreeds_Orbits_Eugene",
